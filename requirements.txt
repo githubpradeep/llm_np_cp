@@ -1,0 +1,7 @@
+# requirements.txt
+
+cupy
+transformers
+torch
+safetensors
+huggingface_hub
